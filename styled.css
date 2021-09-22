@@ -6,9 +6,21 @@ a{
 {
     color: rgb(47, 102, 47);
 }
+.Header{
+    background-color:yellow;
+    margin-top:-10px !important;
+    width: 100% !important;
+}
 
+/* sectionlardagi rasm uchun */
+.qabul{
+    width: 400px;
+    height: 300px;
+}
+.birinchi{margin-top:200px !important;}
 
 /* footerni qismi */
+span{color: rgb(38, 231, 38);}
 .Bemorlar a{
 display:block !important;
 margin-top:15px;
